@@ -12,7 +12,7 @@ I'm a passionate developer working on various projects. Here's a snapshot of my 
 
 ## GitHub Contribution Graph
 
-![GitHub Contribution Graph](https://github.com/users/your-username/contributions)
+![GitHub Contribution Graph](https://github.com/users/Amankumarsinghdeveloper/contributions)
 
 
 ## Contribution Badges
