@@ -4,25 +4,25 @@ I'm a passionate developer working on various projects. Here's a snapshot of my 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Amankumarsinghdeveloper=your-Amankumarsinghdeveloper&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ## Languages Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Amankumarsinghdeveloper=your-Amankumarsinghdeveloper&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
 ## GitHub Activity Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?Amankumarsinghdeveloper=your-Amankumarsinghdeveloper&bg_color=ffffff&color=000000&line=000000&point=00ff00)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&bg_color=ffffff&color=000000&line=000000&point=00ff00)
 
 ## Contribution Badges
 
-- Total Commits: ![Total Commits](https://img.shields.io/github/commit-activity/m/your-Amankumarsinghdeveloper/your-repo?color=green)
+- Total Commits: ![Total Commits](https://img.shields.io/github/commit-activity/m/your-username/your-repo?color=green)
 - Open Source Contributor: ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-blueviolet)
 
 ## Latest Projects
 
-- [Project 1](https://github.com/your-Amankumarsinghdeveloper/project1) ![Stars](https://img.shields.io/github/stars/your-Amankumarsinghdeveloper/project1?style=social)
-- [Project 2](https://github.com/your-Amankumarsinghdeveloper/project2) ![Stars](https://img.shields.io/github/stars/your-Amankumarsinghdeveloper/project2?style=social)
+- [Project 1](https://github.com/your-username/project1) ![Stars](https://img.shields.io/github/stars/your-username/project1?style=social)
+- [Project 2](https://github.com/your-username/project2) ![Stars](https://img.shields.io/github/stars/your-username/project2?style=social)
 
 ## Connect with Me
 
