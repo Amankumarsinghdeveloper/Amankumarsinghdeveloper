@@ -10,9 +10,10 @@ I'm a passionate developer working on various projects. Here's a snapshot of my 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amankumarsinghdeveloper&layout=compact)
 
-## GitHub Activity Graph
+## GitHub Contribution Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Amankumarsinghdeveloper&bg_color=ffffff&color=000000&line=000000&point=00ff00)
+![GitHub Contribution Graph](https://github.com/users/your-username/contributions)
+
 
 ## Contribution Badges
 
