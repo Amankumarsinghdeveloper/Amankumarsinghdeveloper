@@ -4,7 +4,7 @@ async function updateReadme() {
   const octokit = new Octokit();
 
   const { data: repos } = await octokit.rest.repos.listForUser({
-    username: "your-username",
+    username: "Amankumarsinghdeveloper",
   });
 
   const latestProjects = repos
@@ -23,7 +23,7 @@ ${latestProjects}
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amankumarsinghdeveloper&show_icons=true&theme=radical)
 `;
 
   // Update the README.md file in your repository with newReadmeContent
