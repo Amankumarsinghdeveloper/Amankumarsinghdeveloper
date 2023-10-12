@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name](https://your-website.com) 👋
+# Hi, I'm [Aman Kumar Singh](https://your-website.com) 👋
 
 I'm a passionate developer working on various projects. Here's a snapshot of my GitHub activity and some fun badges:
 
