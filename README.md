@@ -18,6 +18,14 @@ I'm a passionate developer working on various projects. Here's a snapshot of my 
 
 ![Total Commits](https://img.shields.io/github/commit-activity/m/Amankumarsinghdeveloper/your-repo?color=green)
 
+## Followers
+
+![Followers](https://img.shields.io/github/followers/Amankumarsinghdeveloper?style=social)
+
+## Total Stars
+
+![Total Stars](https://img.shields.io/github/stars/Amankumarsinghdeveloper?style=social)
+
 ## Latest Projects
 
 - [Project 1](https://github.com/Amankumarsinghdeveloper/project1) ![Stars](https://img.shields.io/github/stars/Amankumarsinghdeveloper/project1?style=social)
