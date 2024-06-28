@@ -1,4 +1,4 @@
-# Hi, I'm [Aman Kumar Singh](https://your-website.com) 👋
+# Hi, I'm [Aman Kumar Singh](https://www.amankumarsingh.me) 👋
 
 I'm a passionate developer working on various projects. Here's a snapshot of my GitHub activity and some fun badges:
 
@@ -10,15 +10,13 @@ I'm a passionate developer working on various projects. Here's a snapshot of my 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amankumarsinghdeveloper&layout=compact)
 
-## GitHub Contribution Graph
+## GitHub Streak
 
-![GitHub Contribution Graph](https://github.com/users/Amankumarsinghdeveloper/contributions)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amankumarsinghdeveloper&theme=radical)
 
+## Total Commits
 
-## Contribution Badges
-
-- Total Commits: ![Total Commits](https://img.shields.io/github/commit-activity/m/Amankumarsinghdeveloper/your-repo?color=green)
-- Open Source Contributor: ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-blueviolet)
+![Total Commits](https://img.shields.io/github/commit-activity/m/Amankumarsinghdeveloper/your-repo?color=green)
 
 ## Latest Projects
 
