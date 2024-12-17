@@ -1,43 +1,79 @@
-# Hi, I'm [Aman Kumar Singh](https://www.amankumarsingh.me) 👋
+# 🚀 **Hi, I'm [Aman Kumar Singh](https://www.amankumarsingh.me) 👋**
 
-I'm a passionate developer working on various projects. Here's a snapshot of my GitHub activity and some fun badges:
+I'm a **passionate full-stack developer** who loves building innovative projects and contributing to the community. Always learning, exploring, and creating. 🌟  
 
-## GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amankumarsinghdeveloper&show_icons=true&theme=radical)
+## 📊 **GitHub Stats**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Amankumarsinghdeveloper&theme=radical)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amankumarsinghdeveloper&show_icons=true&theme=radical" alt="GitHub Stats" height="165px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amankumarsinghdeveloper&theme=radical" alt="GitHub Streak" height="165px" />
+</p>
 
+---
 
-## Languages Used
+## 🚀 **Languages & Tools**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amankumarsinghdeveloper&layout=compact)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,typescript,js,html,css,tailwind,firebase,vscode,git" alt="Skills" />
+</p>
 
-## GitHub Streak
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amankumarsinghdeveloper&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amankumarsinghdeveloper&theme=radical)
+---
 
-## Total Commits
+## 🏆 **Achievements**
 
-![Total Commits](https://img.shields.io/github/commit-activity/m/Amankumarsinghdeveloper/your-repo?color=green)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amankumarsinghdeveloper&theme=radical&no-frame=true&column=6" alt="GitHub Trophy" />
+</p>
 
-## Followers
+---
 
-![Followers](https://img.shields.io/github/followers/Amankumarsinghdeveloper?style=social)
+## 💼 **Latest Projects**
 
-## Total Stars
+Here are a few of my notable projects:  
 
-![Total Stars](https://img.shields.io/github/stars/Amankumarsinghdeveloper?style=social)
+### 🛠️ **Project 1**
+- [**Project 1**](https://github.com/Amankumarsinghdeveloper/project1)  
+![Stars](https://img.shields.io/github/stars/Amankumarsinghdeveloper/project1?style=social)  
+_A brief description of the project and its purpose._
 
-## Latest Projects
+---
 
-- [Project 1](https://github.com/Amankumarsinghdeveloper/project1) ![Stars](https://img.shields.io/github/stars/Amankumarsinghdeveloper/project1?style=social)
-- [Project 2](https://github.com/Amankumarsinghdeveloper/project2) ![Stars](https://img.shields.io/github/stars/Amankumarsinghdeveloper/project2?style=social)
+### 🚀 **Project 2**
+- [**Project 2**](https://github.com/Amankumarsinghdeveloper/project2)  
+![Stars](https://img.shields.io/github/stars/Amankumarsinghdeveloper/project2?style=social)  
+_Another awesome project description here!_
 
-## Connect with Me
+---
 
-- [LinkedIn](https://www.linkedin.com/in/your-name/)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Website](https://your-website.com)
+## 🌐 **Connect with Me**
 
-Feel free to explore my repositories, and let's collaborate on exciting projects!
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-name/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://amankumarsingh.me" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-FF5733?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+## 🎯 **Fun Stats**
+
+- **Total Commits**: ![Commits](https://img.shields.io/github/commit-activity/y/Amankumarsinghdeveloper/your-repo?color=green)
+- **Followers**: ![Followers](https://img.shields.io/github/followers/Amankumarsinghdeveloper?style=social)
+- **Total Stars**: ![Total Stars](https://img.shields.io/github/stars/Amankumarsinghdeveloper?style=social)
+
+---
+
+### 💬 **Feel Free to Reach Out!**
+Let's collaborate and build something exciting together. 🚀  
