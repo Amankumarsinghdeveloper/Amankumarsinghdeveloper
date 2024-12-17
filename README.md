@@ -53,7 +53,6 @@ I'm a **passionate full-stack developer** with a strong focus on creating innova
 
 ## 🎯 **Stats at a Glance**
 
-- 🚀 **Total Commits**: ![Commits](https://img.shields.io/github/commit-activity/y/Amankumarsinghdeveloper?color=green)
 - 🌟 **Followers**: ![Followers](https://img.shields.io/github/followers/Amankumarsinghdeveloper?style=social)  
 - ⭐ **Total Stars**: ![Total Stars](https://img.shields.io/github/stars/Amankumarsinghdeveloper?style=social)  
 
