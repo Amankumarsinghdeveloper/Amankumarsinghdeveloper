@@ -25,14 +25,6 @@ I'm a **full-stack developer** passionate about crafting innovative, scalable, a
 
 ---
 
-## 🎧 **Spotify Now Playing**
-
-<p align="center">
-  <img src="https://novatorem-amankumarsinghdeveloper.vercel.app/api/spotify" alt="Spotify Now Playing" />
-</p>
-
----
-
 ## 📊 **GitHub Overview**
 
 <p align="center">
