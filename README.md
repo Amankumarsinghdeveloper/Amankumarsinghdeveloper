@@ -6,6 +6,9 @@ I'm a passionate developer working on various projects. Here's a snapshot of my 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amankumarsinghdeveloper&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Amankumarsinghdeveloper&theme=radical)](https://git.io/streak-stats)
+
+
 ## Languages Used
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amankumarsinghdeveloper&layout=compact)
