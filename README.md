@@ -1,13 +1,12 @@
 # 🚀 **Hi, I'm [Aman Kumar Singh](https://www.amankumarsingh.me) 👋**
 
-I'm a **passionate full-stack developer** with a strong focus on creating innovative, scalable, and user-friendly applications. Always exploring, learning, and building. 🚀  
+I'm a **passionate full-stack developer** with a strong focus on creating innovative, scalable, and user-friendly applications. Always exploring, learning, and building. 🌟  
 
 ---
 
-## 📊 **My GitHub Overview**
+## 📊 **GitHub Overview**
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Amankumarsinghdeveloper&show_icons=true&theme=radical" alt="GitHub Stats" height="165px" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amankumarsinghdeveloper&theme=radical" alt="GitHub Streak" height="165px" />
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=Amankumarsinghdeveloper&theme=radical&no-frame=true&column=6" alt="GitHub Achievements" />
@@ -30,22 +29,22 @@ I'm a **passionate full-stack developer** with a strong focus on creating innova
 ## 🏆 **Achievements**
 
 - 🌟 **300+ Commits** in the past year  
-- 🏅 **Streak Contributor**: Coding every day to make ideas reality  
+- 🏅 **Streak Contributor**: Coding every day to turn ideas into reality  
 - 🚀 **10+ Repositories** actively developed  
-- 🌟 **Top Languages**: React.js, Next.js, Node.js, and TypeScript  
+- 🌟 **Top Technologies**: React.js, Next.js, Node.js, and TypeScript  
 
 ---
 
 ## 🌐 **Connect with Me**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amankumarsinghdeveloper/" target="_blank">
+  <a href="https://www.linkedin.com/in/amankumarsinghdeveloper/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/devloper_aman" target="_blank">
+  <a href="https://x.com/devloper_aman" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.amankumarsingh.me" target="_blank">
+  <a href="https://www.amankumarsingh.me" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Portfolio-FF5733?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -62,4 +61,4 @@ I'm a **passionate full-stack developer** with a strong focus on creating innova
 
 ## 💬 **Let's Collaborate**
 
-I'm always excited to work on **open-source projects**, innovative ideas, and learn from fellow developers. Let's connect and build something impactful!
+I'm always excited to work on **open-source projects**, explore innovative ideas, and learn from fellow developers. Let’s connect and build something impactful together! 🚀
