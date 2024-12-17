@@ -7,7 +7,7 @@ I'm a **passionate full-stack developer** with a strong focus on creating innova
 ## 📊 **My GitHub Overview**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amankumarsinghdeveloper&show_icons=true&theme=radical" alt="GitHub Stats" height="165px" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Amankumarsinghdeveloper&show_icons=true&theme=radical" alt="GitHub Stats" height="165px" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amankumarsinghdeveloper&theme=radical" alt="GitHub Streak" height="165px" />
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=Amankumarsinghdeveloper&theme=radical&no-frame=true&column=6" alt="GitHub Achievements" />
