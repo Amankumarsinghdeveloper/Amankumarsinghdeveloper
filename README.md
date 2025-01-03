@@ -29,10 +29,7 @@ I'm a **full-stack developer** passionate about crafting innovative, scalable, a
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amankumarsinghdeveloper&theme=radical" alt="GitHub Streak" height="165px" />
- <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amankumarsinghdeveloper&theme=radical" 
-    alt="Profile Summary" 
-/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amankumarsinghdeveloper&theme=radical" alt="Profile Summary" />
 
 </p>
 
