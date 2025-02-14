@@ -1,7 +1,9 @@
 # 🚀 **Hi, I'm [Aman Kumar Singh](https://www.amankumarsingh.me) 👋**
 
-  ![](https://komarev.com/ghpvc/?username=amankumarsinghdeveloper&color=blue&label=PROFILE+VIEWS)  
+<p>
+![](https://komarev.com/ghpvc/?username=amankumarsinghdeveloper&color=blue&label=PROFILE+VIEWS) | 
 [![github](https://img.shields.io/github/followers/amankumarsinghdeveloper?logo=github&style=plastic)](https://github.com/dionnenoellabarretto?tab=followers)
+</p>
 
 I'm a **full-stack developer** passionate about crafting innovative, scalable, and user-friendly applications. Always exploring, learning, and building. 🌟
 
