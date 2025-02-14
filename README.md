@@ -65,7 +65,7 @@ I'm a **full-stack developer** passionate about crafting innovative, scalable, a
   </a>
 </p>
 
-<a href="https://app.daily.dev/amankumarsingh66"><img src="https://api.daily.dev/devcards/v2/y1EfZ7kpLsBYdfEl0EIuP.png?type=default&r=qn7" width="356" alt="AMAN KUMAR SINGH's Dev Card"/></a>
+<a href="https://app.daily.dev/amankumarsingh66"><img src="https://api.daily.dev/devcards/v2/y1EfZ7kpLsBYdfEl0EIuP.png?type=wide&r=qn7" width="652" alt="AMAN KUMAR SINGH's Dev Card"/></a>
 
 ---
 
