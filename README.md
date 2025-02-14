@@ -65,6 +65,11 @@ I'm a **full-stack developer** passionate about crafting innovative, scalable, a
   </a>
 </p>
 
+<h3 align="center">Repo Stats: </h3>
+
+![Alt](https://repobeats.axiom.co/api/embed/b21379ce809929d18a17f2f2727bdd6ee03c30a7.svg "Repobeats analytics image")
+<a href="https://app.daily.dev/amankumarsingh66"><img src="https://api.daily.dev/devcards/v2/y1EfZ7kpLsBYdfEl0EIuP.png?type=default&r=qn7" width="356" alt="AMAN KUMAR SINGH's Dev Card"/></a>
+
 ---
 
 ## 🎯 **Stats at a Glance**
