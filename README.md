@@ -30,9 +30,13 @@ I'm a **full-stack developer** passionate about crafting innovative, scalable, a
 ---
 
 ## 📊 **GitHub Overview**
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amankumarsinghdeveloper&theme=radical" alt="GitHub Streak" height="165px" />
+  |  [![trophy](https://github-profile-trophy.vercel.app/?username=amankumarsinghdeveloper&theme=discord&no-bg=true)](https://github.com/amankumarsinghdeveloper/github-profile-trophy)</p> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amankumarsinghdeveloper&layout=compact&theme=nightowl)](https://github.com/amankumarsinghdeveloper/github-readme-stats) | <a href="https://app.daily.dev/amankumarsingh66"><img src="https://api.daily.dev/devcards/v2/y1EfZ7kpLsBYdfEl0EIuP.png?type=default&r=qn7" width="356" alt="AMAN KUMAR SINGH's Dev Card"/></a> <br/> [![DailyDev Status](https://github.com/amankumarsinghdeveloper/amankumarsinghdeveloper/actions/workflows/DevCard.yml/badge.svg?branch=main)](https://github.com/amankumarsinghdeveloper/amankumarsinghdeveloper/actions/workflows/DevCard.yml) 
+|---| ---|
+
+<hr>
+
+ 
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amankumarsinghdeveloper&theme=radical" alt="Profile Summary" />
 </p>
 
